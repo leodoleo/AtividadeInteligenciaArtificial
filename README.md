@@ -29,7 +29,7 @@ Manipulação de arquivos e dados
 Gráficos com Matplotlib
 Estatística básica
 Arquivo principal
-Exercícios_Python_LuisCosta6BNoturno.ipynb
+Exercícios_Python_LeonardoSantos6BNoturno.ipynb
 
 O notebook contém os 50 exercícios propostos na atividade, juntamente com seus respectivos códigos, comentários e explicações.
 
@@ -48,7 +48,6 @@ Explicação sobre a solução utilizada.
 Objetivo
 O objetivo da atividade é desenvolver e consolidar conhecimentos em Python por meio da resolução de diferentes problemas de programação, permitindo praticar conceitos fundamentais e intermediários da linguagem.
 
-Disciplina
 Disciplina: Inteligência Artificial
 
 Aluno: Leonardo Santos Souza
